@@ -1,0 +1,8 @@
+.titulo {color: lightskyblue}
+.paragrafo {
+    background-color: darkorchid;
+    color: ghostwhite;
+    padding: 24px 0;
+    margin: 0 16px;
+    font-size: 30px;
+}
